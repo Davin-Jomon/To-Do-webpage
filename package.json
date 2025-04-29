@@ -12,7 +12,7 @@
   "author": "michalosman",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.2.0",
+    "eslint": "^9.25.1",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^7.2.0",
     "eslint-plugin-import": "^2.22.1",
